@@ -1,0 +1,6 @@
+{
+  "name": "Chấm Công",
+  "description": "Ứng dụng chấm công thông minh tự động bật lúc 7h30 sáng với tính toán lương và tăng ca thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
